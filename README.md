@@ -5,7 +5,7 @@ I'm an Information Technology engineering student passionate about building prac
 
 I enjoy turning ideas into working applications — from computer vision and AI-powered systems to intelligent tools powered by LLMs.
 
-🚀 What I'm Currently Working On
+🚀 What I'm Currently Working On :
 
 🤖 Exploring Generative AI & Agentic AI
 
@@ -22,28 +22,19 @@ I enjoy turning ideas into working applications — from computer vision and AI-
 I'm particularly interested in how AI can be combined with software development to build useful, real-world applications.
 
 🛠️ Tools & Technologies
-👨‍💻 Programming
+👨‍💻 Programming: Python, JavaScript, HTML, CSS, SQL
 
-Python JavaScript HTML CSS SQL
+🤖 AI / Machine Learning: Machine Learning, Deep Learning, Generative AI, Computer Vision, LLMs, RAG, Agentic AI
 
-🤖 AI / Machine Learning
+🔥 Frameworks & Libraries: PyTorch, YOLO, OpenCV, Streamlit, React
 
-Machine Learning Deep Learning Generative AI Computer Vision LLMs RAG Agentic AI
+🧰 Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook, MongoDB
 
-🔥 Frameworks & Libraries
-
-PyTorch YOLO OpenCV Streamlit React
-
-🧰 Tools & Platforms
-
-Git GitHub VS Code Jupyter Notebook MongoDB
-
-🌐 Currently Exploring
-
-MCP AI Agents LLM Applications Prompt Engineering Generative AI
+🌐 Currently Exploring: MCP, AI Agents, LLM Applications, Prompt Engineering, Generative AI
 
 📫 How to Reach Me
 💼 LinkedIn: https://www.linkedin.com/in/rishi-more/   
 📧 Email: riishimore@gmail.com
+
 💻 GitHub: rishicodes10
 
