@@ -35,6 +35,5 @@ I'm particularly interested in how AI can be combined with software development 
 📫 How to Reach Me
 💼 LinkedIn: https://www.linkedin.com/in/rishi-more/   
 📧 Email: riishimore@gmail.com
-
 💻 GitHub: rishicodes10
 
