@@ -7,17 +7,17 @@ I enjoy turning ideas into working applications — from computer vision and AI-
 
 🚀 What I'm Currently Working On :
 
-🤖 Exploring Generative AI & Agentic AI
+- Exploring Generative AI & Agentic AI
 
-🧠 Building and experimenting with Machine Learning & Deep Learning models
+- Building and experimenting with Machine Learning & Deep Learning models
 
-👁️ Working with Computer Vision and Object Detection
+- Working with Computer Vision and Object Detection
 
-🔗 Learning and implementing Model Context Protocol (MCP)
+- Learning and implementing Model Context Protocol (MCP)
 
-⚡ Exploring LLMs, AI Agents, RAG, and AI-powered applications
+- Exploring LLMs, AI Agents, RAG, and AI-powered applications
 
-🏺 Developing my AI-Driven Archaeological Site Mapping project using computer vision
+- Developing my AI-Driven Archaeological Site Mapping project using computer vision
 
 I'm particularly interested in how AI can be combined with software development to build useful, real-world applications.
 
